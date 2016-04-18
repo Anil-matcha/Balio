@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Fire
+  - Car
+  - HealthSlider
+  - Goon
+  - Platform
+  - Box
+  - EnemyFire
+  - Block
+  - Hen
+  - Heart1
+  - Heart2
+  - Heart3
+  - KillZone
+  - Heart
+  - Game
+  - HorizontalMoveBlock
+  - HenPower
+  - Wall
+  - WallTop
+  - Villain
+  - EnemyHealthSlider
+  - Mushroom
+  - Hinge
+  - Snake
+  - Arrow
+  - Parachute
+  - Spikes
+  - Indicator
+  - Trident
+  - Bow
+  - Rabbit
+  - Gun
+  - Bullet
+  - EnemyBullet
+  - EncounterEnemy
+  - Goli
+  - Pot
+  - Bomb
+  - Idli
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
